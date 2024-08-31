@@ -1,4 +1,4 @@
-#tokenvm
+# tokenvm
 
 We created the [`tokenvm`](./examples/tokenvm) to showcase how to use the
 `hypersdk` in an application most readers are already familiar with, token minting
