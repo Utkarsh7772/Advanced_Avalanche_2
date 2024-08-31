@@ -437,10 +437,3 @@ out on the Avalanche Discord._
   with a refund action (this will allow for "user-driven" acks on
   messages, which will remain signable and in state until a refund action is
   issued)
-
-<br>
-<br>
-<br>
-<p align="center">
-  <a href="https://github.com/ava-labs/hypersdk"><img width="40%" alt="tokenvm" src="assets/hypersdk.png"></a>
-</p>
